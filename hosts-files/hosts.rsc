@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-03-04
+# Last updated: 2019-03-29
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -27,21 +27,17 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
-add address=172.86.73.41 name=172-86-73-41.googlehosts.org
-add address=172.86.73.41 name=tg-7.googlehosts.org
+add address=120.132.20.219 name=120-132-20-219.googlehosts.org
+add address=120.132.20.219 name=tg-7.googlehosts.org
 add address=185.122.58.249 name=185-122-58-249.googlehosts.org
 add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
 add address=103.105.48.234 name=tg-9.googlehosts.org
 add address=23.226.136.24 name=23-226-136-24.googlehosts.org
 add address=23.226.136.24 name=ss-1.googlehosts.org
-add address=107.150.12.229 name=107-150-12-229.googlehosts.org
-add address=66.154.104.124 name=66-154-104-124.googlehosts.org
-add address=66.154.104.124 name=ss-1.googlehosts.org
-add address=104.129.16.244 name=104-129-16-244.googlehosts.org
 add address=23.226.136.132 name=23-226-136-132.googlehosts.org
+add address=23.226.136.132 name=ss-2.googlehosts.org
 add address=66.154.108.62 name=66-154-108-62.googlehosts.org
-add address=66.154.108.62 name=ss-2.googlehosts.org
 add address=23.226.136.216 name=23-226-136-216.googlehosts.org
 add address=23.226.136.216 name=ss-3.googlehosts.org
 add address=155.94.137.77 name=155-94-137-77.googlehosts.org
@@ -53,8 +49,14 @@ add address=167.88.163.163 name=ss-4.googlehosts.org
 add address=23.95.54.162 name=23-95-54-162.googlehosts.org
 add address=103.124.106.174 name=103-124-106-174.googlehosts.org
 add address=103.124.106.174 name=proxy.googlehosts.org
+add address=45.59.113.167 name=45-59-113-167.googlehosts.org
+add address=45.59.113.167 name=status.googlehosts.org
+add address=45.59.113.168 name=45-59-113-168.googlehosts.org
+add address=45.59.113.168 name=www.googlehosts.org
 add address=45.59.113.169 name=45-59-113-169.googlehosts.org
 add address=45.59.113.169 name=netlog-viewer.googlehosts.org
+add address=45.59.113.172 name=45-59-113-172.googlehosts.org
+add address=45.59.113.172 name=main-ssh.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
@@ -3278,6 +3280,10 @@ add address=18.194.108.2 name=prod-chatman-ancillary-eu-central-1.pscp.tv
 add address=34.233.63.45 name=prod-chatman-ancillary-us-east-1.pscp.tv
 add address=35.160.28.174 name=prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
+
+# Potplayer Start
+add address=211.231.108.181 name=potplayer.daum.net
+# Potplayer End
 
 # ProjectV Start
 add address=104.27.154.107 name=www.v2ray.com
